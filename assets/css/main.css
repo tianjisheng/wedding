@@ -86,7 +86,7 @@ a:after {
 	background-attachment: relative;
 	background-position: center center;
 	height: 1280px;
-	width: 720px;
+	width: 100%;
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
